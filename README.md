@@ -5,7 +5,7 @@ developer: https://t.me/pysmart
 
 #  CHASE BANK
 -  grabs credentials
--  - OTP bypass
+-  OTP bypass
 ![BFC21229-8D48-460D-8428-9828C66BAFAA](https://github.com/thegreydev/bank-scampages/assets/172133630/0a4fd6f0-d3fc-46b6-959e-78037779c1f6)
  
 developer: https://t.me/pysmart
