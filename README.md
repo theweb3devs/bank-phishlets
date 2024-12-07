@@ -3,6 +3,8 @@ a phishing website that grabs login credentials of any bank websites or customis
 
 developer: https://t.me/pysmart
 
+MESSAGE ME FOR ANY BANK PHISHING WEBSITE
+
 #  CHASE BANK
 -  grabs credentials
 -  OTP bypass
