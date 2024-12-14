@@ -48,3 +48,4 @@ developer: https://t.me/pysmart
 I can build all customized webpages and leads with html letters
 
 SPAMMING TUTORIAL
+BANK SCAMPAGES
