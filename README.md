@@ -1,7 +1,7 @@
 # bank-scampages
 a phishing website that grabs login credentials of any bank websites or customised deals
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 MESSAGE ME FOR ANY BANK PHISHING WEBSITE
 
@@ -10,7 +10,7 @@ MESSAGE ME FOR ANY BANK PHISHING WEBSITE
 -  OTP bypass
 ![BFC21229-8D48-460D-8428-9828C66BAFAA](https://github.com/thegreydev/bank-scampages/assets/172133630/0a4fd6f0-d3fc-46b6-959e-78037779c1f6)
  
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # AMFCU BANK 
 -  grabs credentials
@@ -42,7 +42,7 @@ developer: https://t.me/pysmart
 - payload(s)
 
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 
 I can build all customized webpages and leads with html letters
